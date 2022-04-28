@@ -1,5 +1,5 @@
-#algorithm-and-data-structures  
-##Proje 1 InsertionSort:  
+# algorithm-and-data-structures  
+## Proje 1 InsertionSort:  
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.  
@@ -27,7 +27,7 @@ Adım 2: 3 5 7 8 2 9 4 15 6
 Adım 3: 3 5 7 8 2 9 4 15 6  
 Adım 4: 2 3 5 7 8 9 4 15 6  
 
-##Proje 2 MergeSort:
+## Proje 2 MergeSort:
 [16,21,11,8,12,22] -> Merge Sort  
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.  
@@ -42,7 +42,7 @@ Adım 6: 8,11,12,16,22
 
 Big O = O(n log(n))  
 
-##Proje 3 Binary Seacrh Tree:  
+## Proje 3 Binary Seacrh Tree:  
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.  
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.  
