@@ -1,0 +1,101 @@
+body{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 3rem;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 8px;
+    color: #4e4d4d;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+.left{
+    float: left;
+
+}
+.right{
+    float: right;
+}
+
+.sign-in{
+    background-color: #4585f3;
+    border-color: #4585f3;
+    border-radius: 3px;
+    font-size: 15px;
+    color: white;
+    padding: 6px 12px;
+}
+
+.container{
+    text-align: center;
+}
+
+.main-logo{
+
+    margin-top: 12%;
+    margin-left: 10%;
+
+}
+
+.search-bar{
+    width: 480px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 10px 8px #aaaaaa
+    
+}
+
+.search-logo{
+    width: 25px;
+    position: absolute;
+    display: inline;
+    padding: 10px 10px;
+}
+
+.voice-logo{
+    width: 25px;
+    position: absolute;
+    display: inline;
+    padding: 10px;
+    margin-left: 27.5rem;
+}
+
+.search-button{
+    margin: 25px 5px;
+    padding: 12px;
+    border: 1px;
+    border-radius: 5px;
+    border-color:  #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    height: 36px;
+    color: #5f6368;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+}
+
+footer{
+    margin-top: 23%;
+    background-color: #f2f2f2 ;
+}
+
+footer a{
+    padding: 10px;
+    color: rgba(0,0,0,.87);
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
+.left-links{
+    float: left;
+}
+
+.right-links{
+    float: right;
+}
